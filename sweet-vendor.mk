@@ -341,7 +341,6 @@ PRODUCT_PACKAGES += \
     libssc_default_listener \
     libssccalapi \
     libswregistrationalgo \
-    libswvdec \
     libsymphony-cpu \
     libthermalclient \
     libtriplecam_video_optical_zoom \
